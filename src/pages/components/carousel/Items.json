@@ -1,0 +1,72 @@
+{
+  "items": {
+    "bootstrap": [
+      {
+        "id": 1,
+        "title": "Photography",
+        "body": "Photography",
+        "imageUrl": "https://res.cloudinary.com/kizmelvin/image/upload/v1586799813/kizmelvin/persons_pigeon_nurkq2.jpg",
+        "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+      },
+      {
+        "id": 2,
+        "title": "City Views",
+        "body": "New York",
+        "imageUrl": "https://res.cloudinary.com/kizmelvin/image/upload/v1587785064/kizmelvin/michael-BcgEo2CNeYA-unsplash_cdaruk.jpg",
+        "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+      },
+      {
+        "id": 3,
+        "title": "Wild Life",
+        "body": "While life",
+        "imageUrl": "https://res.cloudinary.com/kizmelvin/image/upload/v1586799827/kizmelvin/brownlion_qm8hah.jpg",
+        "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+      },
+      {
+        "id": 4,
+        "title": "Foods and Culture",
+        "body": "Vitamin",
+        "imageUrl": "https://res.cloudinary.com/kizmelvin/image/upload/v1587870308/kizmelvin/edvin-johansson-5AylXcpJn1I-unsplash_lbhgod.jpg",
+        "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+      }
+    ],
+    "blog": [
+      {
+        "id": 1,
+        "title": "Stamina",
+        "body": "in a beet",
+        "imageUrl": "./image1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Manage weight",
+        "body": "with almond milk",
+        "imageUrl": "/image7.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Antioxident",
+        "body": "boost with cocao",
+        "imageUrl": "./image3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Metabolise",
+        "body": "with vanilla pods",
+        "imageUrl": "./image4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Boost energy",
+        "body": "boost with cocao",
+        "imageUrl": "./image5.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Metabolise",
+        "body": "with vanilla pods",
+        "imageUrl": "./image6.jpg"
+      }
+    ]
+  }
+}

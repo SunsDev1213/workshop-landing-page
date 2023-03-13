@@ -1,0 +1,29 @@
+.nutrition_main {
+  background: #ffe1bd;
+  width: 100%;
+}
+
+.subContainer {
+  max-width: 1128px;
+  width: 92vw;
+  margin: 100px auto;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.subTitle {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+@media (max-width: 700px) {
+  .subContainer {
+    flex-direction: column;
+  }
+}
